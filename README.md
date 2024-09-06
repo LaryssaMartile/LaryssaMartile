@@ -1,7 +1,7 @@
 ## Olá!! Eu sou a Laryssa Martile
 
-- 🖥 Atualmente estou graduando em Análise e Desenvolvimento de Sistemas (ADS)
-- 📚 Estudando HTML5, CSS3, Javascript e Java
+- 🖥 Formada em Análise e Desenvolvimento de Sistemas (ADS)
+- 📚 Estudando HTML5, CSS3, Javascript, C# e C++
 - 💖 Paixões: família, livros, café e tecnologia
 
 <div align="center">
